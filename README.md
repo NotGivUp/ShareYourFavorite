@@ -1,8 +1,6 @@
-# PetWorld
-Pet Community
+FavoriteCommunity
 
-
-PetWorld - 반려동물을 키우는 사람들의 모임
+좋아하는 분야의 정보를 함께 나누는 곳
 
 HTML, CSS 작업하기
 
